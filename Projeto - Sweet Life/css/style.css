@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: 18px;
+
+}
+
+#Logo {
+
+    position: relative;
+    text-align: center;
+    width: 11em;
+    height: 5em;
+}
+
+.container2 {
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(49, 49, 49);
+    border-radius: 35px;
+   background-color: crimson; 
+    padding-left: 3px;
+    padding-right: 3px;
+    margin-left: 15em;
+
+}
+
+.container3 {
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(49, 49, 49);
+    border-radius: 35px;
+    background-color: crimson;
+    padding-left: 3px;
+    padding-right: 3px;
+    margin-right: 5em;
+
+}
+
+.container2:hover {
+    background-color: rgb(202, 9, 47);
+
+}
+
+#Cadastro {
+    color: white;
+    
+}
+
+#Login {
+    color: white;
+}
+
+#contatos {
+    font-size: 25px;
+}
+
+#sucos {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font: 50px;
+}
+
+.card {
+    border-color: rgb(88, 88, 88);
+    border-width: 1, 2px;
+}
+
+.card-body {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    text-align: justify;
+    background-color: rgb(255, 254, 173);
+    color: black;
+
+}
+
+.navbar-light {
+    background-color: rgb(255, 255, 255) !important;
+
+}
+
+.page-footer {
+    background-color: rgb(208, 0, 62) !important;
+}
+
+.form-control {
+    background-color: rgb(236, 236, 236) !important;
+    border-style: solid;
+    border-width: 1.5px;
+    border-color: rgb(49, 49, 49);
+}
+
+
+.copy-text p a {
+    color: white;
+}
+
+.copy-text p a:hover {
+    color: rgb(170, 170, 170);
+}
