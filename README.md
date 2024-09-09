@@ -5,7 +5,7 @@ Este é um projeto ao qual estou trabalhando para fins educacionais. A proposta 
 
  Para saber mais, você pode visitar meu site online:
 
-[Visite meu projeto]([https://www.seusite.com](https://loja-virtual-sweetlife.netlify.app/))
+[Visite meu projeto](https://loja-virtual-sweetlife.netlify.app/))
 
 ## Tecnologias Utilizadas
 - HTML
